@@ -1,0 +1,2 @@
+plumbing_head:plumbing_head_src:plumbing_import:plumbing_parm_service:plumbing_pub_sub:plumbing_severe_client:plumbing_test
+-DCATKIN_DEVEL_PREFIX=/home/k/test/demo_03_ws/devel -DCMAKE_INSTALL_PREFIX=/home/k/test/demo_03_ws/install -G Unix Makefiles

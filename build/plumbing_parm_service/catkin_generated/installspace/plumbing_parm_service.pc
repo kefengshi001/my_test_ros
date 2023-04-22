@@ -1,0 +1,8 @@
+prefix=/home/k/test/demo_03_ws/install
+
+Name: plumbing_parm_service
+Description: Description of plumbing_parm_service
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
